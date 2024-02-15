@@ -1,11 +1,11 @@
 ---
 weight: 999
-title: "Hiddify"
+title: Hiddify
 description: ""
-icon: "article"
-date: "2024-02-15T23:47:44+03:30"
-lastmod: "2024-02-15T23:47:44+03:30"
-draft: true
+icon: article
+date: 2024-02-15T23:47:44+03:30
+lastmod: 2024-02-15T23:47:44+03:30
+draft: false
 toc: true
 ---
 # Hiddify
@@ -37,6 +37,7 @@ TLS Fragment Sleep : 30-70
 
 صربدر رو بزنید و از صفحه اصلی روی New Profile یا + بزنید.
 برای name هر چیزی و برای URL از لینک‌های روش اول هیدیفای داخل کانال استفاده کنید.
+https://t.me/c/1206915513/316
 Auto Update هم روی 6 بگذارید.
 سیو کنید و متصل بشید.
 
@@ -44,6 +45,7 @@ Auto Update هم روی 6 بگذارید.
 
 از صفحه اصلی روی New Profile یا + بزنید.
 برای name هر چیزی و برای URL از لینک‌های روش دوم هیدیفای داخل کانال استفاده کنید.
+https://t.me/c/1206915513/316
 Auto Update هم روی 6 بگذارید.
 سیو کنید و متصل بشید.
 
