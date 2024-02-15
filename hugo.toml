@@ -1,6 +1,6 @@
-baseURL = 'https://parsamrrelax.github.io/personal_vpn_tutorial'
+baseURL = 'https://parsamrrelax.github.io'
 languageCode = 'en-us'
-title = 'Free Internet Docs'
+title = 'VPN Guide'
 
 [module]
     # uncomment line below for temporary local development of module
