@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Free Internet Docs</title>
-    <link>https://parsamrrelax.github.io/personal_vpn_tutorial/</link>
-    <description>Recent content on Free Internet Docs</description>
+    <title>VPN Guide</title>
+    <link>https://parsamrrelax.github.io/</link>
+    <description>Recent content on VPN Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Feb 2024 00:22:33 +0330</lastBuildDate>
-    <atom:link href="https://parsamrrelax.github.io/personal_vpn_tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://parsamrrelax.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foxray</title>
-      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/ios/foxray/</link>
+      <link>https://parsamrrelax.github.io/docs/ios/foxray/</link>
       <pubDate>Fri, 16 Feb 2024 00:22:33 +0330</pubDate>
-      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/ios/foxray/</guid>
+      <guid>https://parsamrrelax.github.io/docs/ios/foxray/</guid>
       <description>Foxray
 بدون مشکل در اسپاتیفای و OpenAI
-وارد برنامه بشید بعد از ایمپورت کانفیگ‌ها از بخش Foxray از داخل کانال روی چرخ دنده یا علامت تعجب بغل هر کانفیگ کلیک کنید داخل منویی که باز میشه Fragment رو روشن کنید و مقادیر رو به این صورت جایگزین کنید
+https://t.me/c/1206915513/296 وارد برنامه بشید بعد از ایمپورت کانفیگ‌ها از بخش Foxray از داخل کانال روی چرخ دنده یا علامت تعجب بغل هر کانفیگ کلیک کنید داخل منویی که باز میشه Fragment رو روشن کنید و مقادیر رو به این صورت جایگزین کنید
 Length : 10-20 Interval : 30-70 Packets : tlshello </description>
     </item>
     <item>
       <title>Hiddify</title>
-      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/hiddify/</link>
+      <link>https://parsamrrelax.github.io/docs/android/hiddify/</link>
       <pubDate>Thu, 15 Feb 2024 23:47:44 +0330</pubDate>
-      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/hiddify/</guid>
+      <guid>https://parsamrrelax.github.io/docs/android/hiddify/</guid>
       <description>Hiddify linkاین نسخه از برنامه رو دانلود و نصب کنید
 https://github.com/hiddify/hiddify-next/releases/download/v0.15.4/hiddify-android-universal.apk
 وارد برنامه که شدید در منوی region رو روی IR قرار بدید و کزینه Analytics رو خاموش کنید داخل Settings اصلی گزینه Disable Battery Optimization رو بزنید. و اگر گوشی جدیدتری دارید Memory Limit رو خاموش کنید.
@@ -31,38 +31,37 @@ https://github.com/hiddify/hiddify-next/releases/download/v0.15.4/hiddify-androi
     </item>
     <item>
       <title>V2rayNG</title>
-      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/v2rayng/</link>
+      <link>https://parsamrrelax.github.io/docs/android/v2rayng/</link>
       <pubDate>Thu, 15 Feb 2024 23:47:36 +0330</pubDate>
-      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/v2rayng/</guid>
+      <guid>https://parsamrrelax.github.io/docs/android/v2rayng/</guid>
       <description>V2rayNG (پایدارترین روش) link بدون مشکل در اسپاتیفای و OpenAI
-ابتدا نسخه قبلی برنامه رو کامل پاک کنید و سپس این نسخه رو از تلگرام دانلود و نصب کنید.
+ابتدا نسخه قبلی برنامه رو کامل پاک کنید و سپس این نسخه رو از تلگرام دانلود و نصب کنید. https://t.me/c/1206915513/318
 از منوی سمت چپ داخل Setting برید و گزینه Enable Fragment رو روشن کنید. مقادیر رو برای سرعت بهتر تغییر بدید.
 Fragment Packets: 10-20 Fragment Length: 30-70 کانفیگ های v2rayNG را از داخل کانال کپی کنید و داخل برنامه + و Import From Clipboard بزنید.</description>
     </item>
     <item>
       <title>V2Box</title>
-      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/ios/v2box/</link>
+      <link>https://parsamrrelax.github.io/docs/ios/v2box/</link>
       <pubDate>Thu, 15 Feb 2024 23:47:27 +0330</pubDate>
-      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/ios/v2box/</guid>
+      <guid>https://parsamrrelax.github.io/docs/ios/v2box/</guid>
       <description>V2Box link بدون مشکل در اسپاتیفای و OpenAI
-برنامه رو از اپ استور دانلود کنید کانفیگ ها را از کانال از بخش V2Box بردارید و داخل برنامه Import کنید
-وارد Settings و بخش Routing بشید گزینه Enable Routing رو روشن کنید گزینه Enable Fragmentation رو روشن کنید. مقادیر زیر رو جاگزین کنید
+برنامه رو از اپ استور دانلود کنید کانفیگ ها را از کانال از بخش V2Box بردارید و داخل برنامه Import کنید https://t.me/c/1206915513/296 وارد Settings و بخش Routing بشید گزینه Enable Routing رو روشن کنید گزینه Enable Fragmentation رو روشن کنید. مقادیر زیر رو جاگزین کنید
 Length : 10-20 Interval : 30-70 Packets : tlshello مثل قبل وصل شید و استفاده کنید.</description>
     </item>
     <item>
       <title>Streisand</title>
-      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/ios/streisand/</link>
+      <link>https://parsamrrelax.github.io/docs/ios/streisand/</link>
       <pubDate>Thu, 15 Feb 2024 23:47:21 +0330</pubDate>
-      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/ios/streisand/</guid>
+      <guid>https://parsamrrelax.github.io/docs/ios/streisand/</guid>
       <description>Streisand link بدون مشکل در اسپاتیفای و OpenAI
-وارد برنامه بشید بعد از ایمپورت کانفیگ‌ها از بخش Streisand از داخل کانال روی چرخ دنده یا علامت تعجب بغل هر کانفیگ کلیک کنید داخل منویی که باز میشه Fragment رو روشن کنید و مقادیر رو به این صورت جایگزین کنید
+https://t.me/c/1206915513/296 وارد برنامه بشید بعد از ایمپورت کانفیگ‌ها از بخش Streisand از داخل کانال روی چرخ دنده یا علامت تعجب بغل هر کانفیگ کلیک کنید داخل منویی که باز میشه Fragment رو روشن کنید و مقادیر رو به این صورت جایگزین کنید
 Length : 10-20 Interval : 30-70 Packets : tlshello </description>
     </item>
     <item>
       <title>Hiddify</title>
-      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/desktop/hiddify/</link>
+      <link>https://parsamrrelax.github.io/docs/desktop/hiddify/</link>
       <pubDate>Thu, 15 Feb 2024 23:47:00 +0330</pubDate>
-      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/desktop/hiddify/</guid>
+      <guid>https://parsamrrelax.github.io/docs/desktop/hiddify/</guid>
       <description>Hiddify link بدون مشکل در اسپاتیفای و OpenAI
 این نسخه از برنامه رو دانلود و نصب کنید
 Windows
