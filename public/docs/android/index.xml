@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Free Internet Docs</title>
+    <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/</link>
+    <description>Recent content in Android on Free Internet Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2024 23:42:15 +0330</lastBuildDate>
+    <atom:link href="https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiddify</title>
+      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/hiddify/</link>
+      <pubDate>Thu, 15 Feb 2024 23:47:44 +0330</pubDate>
+      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/hiddify/</guid>
+      <description>Hiddify linkاین نسخه از برنامه رو دانلود و نصب کنید
+https://github.com/hiddify/hiddify-next/releases/download/v0.15.4/hiddify-android-universal.apk
+وارد برنامه که شدید در منوی region رو روی IR قرار بدید و کزینه Analytics رو خاموش کنید داخل Settings اصلی گزینه Disable Battery Optimization رو بزنید. و اگر گوشی جدیدتری دارید Memory Limit رو خاموش کنید.
+روش اول (روش مورد استفاده‌ی خودم) link بدون مشکل در اسپاتیفای و OpenAI
+از Settings وارد بخش Config Options بشید مقدار Remote DNS رو روی tcp://1.</description>
+    </item>
+    <item>
+      <title>V2rayNG</title>
+      <link>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/v2rayng/</link>
+      <pubDate>Thu, 15 Feb 2024 23:47:36 +0330</pubDate>
+      <guid>https://parsamrrelax.github.io/personal_vpn_tutorial/docs/android/v2rayng/</guid>
+      <description>V2rayNG (پایدارترین روش) link بدون مشکل در اسپاتیفای و OpenAI
+ابتدا نسخه قبلی برنامه رو کامل پاک کنید و سپس این نسخه رو از تلگرام دانلود و نصب کنید.
+از منوی سمت چپ داخل Setting برید و گزینه Enable Fragment رو روشن کنید. مقادیر رو برای سرعت بهتر تغییر بدید.
+Fragment Packets: 10-20 Fragment Length: 30-70 کانفیگ های v2rayNG را از داخل کانال کپی کنید و داخل برنامه + و Import From Clipboard بزنید.</description>
+    </item>
+  </channel>
+</rss>
