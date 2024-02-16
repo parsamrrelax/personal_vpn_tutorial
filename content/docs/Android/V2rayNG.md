@@ -16,12 +16,12 @@ toc: true
 https://t.me/c/1206915513/318
 
 
-از منوی سمت چپ داخل Setting برید و گزینه Enable Fragment رو روشن کنید.
+از منوی سمت چپ داخل Setting برید  و گزینه Enable Mux و Enable Fragment رو روشن کنید.
 مقادیر رو برای سرعت بهتر تغییر بدید.
 ```
-Fragment Packets: 10-20
+Fragment Packets: 150-200
 
-Fragment Length: 30-70
+Fragment Length: 2-3
 ```
 
 کانفیگ های v2rayNG را از داخل کانال کپی کنید و داخل برنامه + و Import From Clipboard بزنید.

@@ -21,9 +21,9 @@ https://t.me/c/1206915513/296
 مقادیر زیر رو جاگزین کنید
 
 ```
-Length : 10-20
-Interval : 30-70
-Packets : tlshello
+Length : 5
+Interval : 3
+Packets : 1-1
 ```
 
 مثل قبل وصل شید و استفاده کنید.
